@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	 <link rel="stylesheet" type="text/css" href="mikeedante.github.io/style.css">
+	 <link rel="stylesheet" type="text/css" href="https://mikeedante.github.io/style.css">
   </head>
  	 <body>
     		<h1>Hello my name is Michael</h1>
