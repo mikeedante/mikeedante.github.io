@@ -1,0 +1,49 @@
+body {
+		  background-color: white;
+    		font-family: times;
+		    text-align:center;
+	}
+
+    	li:hover {
+        color:blue; 
+  }
+	    iframe{
+		    display:none;
+	}
+      a:hover {
+        color:red;
+  }
+    	a:hover + iframe {
+		    display:block;
+	}
+		
+
+    	.games{
+    		display:block;
+    		width:200px;
+    		margin-bottom: 10px;
+    		padding:4px;
+    		color:white;
+    		background-color: black; 
+  }
+ 	
+	h1:hover {
+        color:blue;
+  }
+       h1 {
+        font-family: sans-serif;
+        text-shadow:2px 20px 50px #333333;
+        margin-top:40px;
+        color:black;
+    		font-size:80px;
+	}
+	    #places{
+		    font-weight:50;
+		    font-family:fantasy;
+	}
+    	.place + img{
+    		display:none;
+  }
+    	.place:hover + img{
+    		display:block;
+  }      
