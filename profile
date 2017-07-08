@@ -5,7 +5,7 @@
   </head>
  	 <body>
     		<h1>Hello my name is Michael</h1>
-    <p>Hi i am 28 years old and enjoy plaing video games, I am a deliveroo rider in my spare time.</p>
+    <p>Hi i am 28 years old and enjoy playing video games, I am a deliveroo rider in my spare time.</p>
     <a href="https://www.youtube.com/watch?v=6uED22JERB8">Ps4 New Games </a>
     <iframe width="400" height="350" src="https://www.youtube.com/embed/6uED22JERB8?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>
     <p id="places">My fav places in the world are...</p>
