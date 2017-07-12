@@ -55,3 +55,22 @@ ul{
 #places{
 	font-family:sans-serif;
 	font-weight:bold;
+	font-size:20px;
+}
+.place:hover{color:blue
+}
+
+.place + img{
+	display:none
+}
+.place:hover + img{
+	display:block;
+	border-radius:100%;
+}
+
+/* background after <h1>*/
+.div{
+	background-image:url(https://static.pexels.com/photos/110854/pexels-photo-110854.jpeg);
+	background-repeat:no-repeat;
+	background-size:cover;
+}
