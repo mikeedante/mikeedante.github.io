@@ -62,7 +62,7 @@ li{
 .place:hover{
 	color:red
 }
-.place + img{
+.place ~ img{
 	visibility:hidden;
 }
 .list  p{
