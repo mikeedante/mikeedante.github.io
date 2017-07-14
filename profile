@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-	 <link rel="stylesheet" type="text/css" href="C:\Users\kiase_000\Desktop\profile css\style.css">
+	 <link rel="stylesheet" type="text/css" href="https://raw.githubusercontent.com/mikeedante/mikeedante.github.io/master/style.css">
   </head>
  	 <body>
 		
