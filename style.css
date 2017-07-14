@@ -7,7 +7,6 @@ body{
 	color:white;
     	font-family: times;
 	text-align:center;
-	
 }
 
 h1:hover{color:blue;
@@ -21,12 +20,17 @@ h1{
         color:rgba(100,100,100,0.7);
     	font-size:80px;
 }
+
+/*video settings*/
+
+a{display:block
+}
 a:hover {color:red;
 }
-iframe{
-	display:none;
+iframe{visibility:hidden;
 }
 a:hover + iframe {
+	visibility:visible;
 	display:block;
 	margin:auto;
 }
@@ -37,38 +41,47 @@ p{
 	font-weight:50;
 	font-family:fantasy;
 }
+
 /* list items*/
 
 ul{ list-style-type: none; 
 }
-.list{
-	display:inline-block;
+li{ 
+	display:block;
 	text-transform:uppercase;
 	font-weight:bold;
 	font-family:sans-serif;
 	font-size:50px;
 	padding:15px 30px;
 }
-ul{ 
-	
-}
 #places{
 	font-family:sans-serif;
 	font-weight:bold;
 	font-size:20px;
 }
-.place:hover{color:blue
+.place:hover{
+	color:red
 }
-
 .place + img{
-	display:none
+	visibility:hidden;
+}
+.list  p{
+	visibility:hidden
+	font-style:italic;
+}
+.placetext:hover > p{
+	color:white;
+	visibility:visible;
+	display:inline;
 }
 .place:hover + img{
-	display:block;
+	visibility:visible;
+	display:inline;
 	border-radius:100%;
 }
 
 /* background after <h1>*/
+
 .div{
 	background-image:url(https://static.pexels.com/photos/110854/pexels-photo-110854.jpeg);
 	background-repeat:no-repeat;
