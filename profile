@@ -15,11 +15,11 @@
 	
     <ul>
 	<div class="list">
-     <div class="placetext"><li><span class="place">London</span><img src="http://i.dailymail.co.uk/i/pix/2016/01/01/09/2FB6E79E00000578-0-image-a-2_1451640638613.jpg" width="300px" alt="london" ></li>
+     <div class="placetext"><li><span class="place">London<br></span><img src="http://i.dailymail.co.uk/i/pix/2016/01/01/09/2FB6E79E00000578-0-image-a-2_1451640638613.jpg" width="300px" alt="london" ></li>
       <p>London is the capital city of the United Kingdom</p></div>
-     <div class="placetext"><li><span class="place">Mahe</span><img src="http://en.seyvillas.com/img/beaches/54/mahe-pointe-au-sel-01_header.jpg" width="300px" alt="mahe"/> </li>
+     <div class="placetext"><li><span class="place">Mahe<br></span><img src="http://en.seyvillas.com/img/beaches/54/mahe-pointe-au-sel-01_header.jpg" width="300px" alt="mahe"/> </li>
       <p>Mahe is the largest island in the Seychelles.<br>It is also the location of the worlds smallest capital city Victoria</p></div>
-     <div class="placetext"><li><span class="place">Paris</span><img src="http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/France/Paris/paris-attractions-xlarge.jpg" width="300px" alt="paris"/> </li>
+     <div class="placetext"><li><span class="place">Paris<br></span><img src="http://www.telegraph.co.uk/content/dam/Travel/Destinations/Europe/France/Paris/paris-attractions-xlarge.jpg" width="300px" alt="paris"/> </li>
       <p>Paris is the capital city of France.<br>The picture is of the eiffel tower</p></div>
 	</div>
 
